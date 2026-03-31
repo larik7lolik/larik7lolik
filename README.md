@@ -1,16 +1,28 @@
-## Hi there 👋
+### Привет! Я — Лариса, Маркетолог-Вайбкодер 🚀
 
-<!--
-**larik7lolik/larik7lolik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я соединяю стратегический маркетинг и быструю разработку с помощью AI. Мой подход — **Vibe Coding**: я использую современные инструменты (Cursor, Claude, LLMs), чтобы превращать идеи в работающий код со скоростью мысли.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Мой стек и инструменты
+- **Marketing:** Автоматизация воронки, лидогенерация, Growth Hacking.
+- **Vibe Coding:** Сверхбыстрая разработка MVP и скриптов через AI-пайплайны.
+- **Python:** Разработка Telegram-ботов (использую `python-telegram-bot`), парсеров и инструментов аналитики.
+- **Tools:** Git, GitHub Actions, Cursor, API Integrations.
+
+### 📁 Что в моих репозиториях?
+Здесь вы найдете мои пет-проекты и инструменты автоматизации:
+- 🤖 **Telegram Bots:** Интеграция интерфейсов для взаимодействия с пользователями.
+- 📈 **Scripts:** Решения для обработки данных и маркетинговых задач.
+- 🏗 **MVP Projects:** Быстрые прототипы сервисов.
+
+---
+
+### 📫 Связаться со мной:
+- **LinkedIn:** (https://www.linkedin.com/in/larisa-zaripova-20773b245)
+- **Telegram:** @Zaripova_Larisa
+- **Email:** larik7lolik@gmail.com
+
+---
+*«Код — это просто инструмент для достижения бизнес-целей. Я делаю так, чтобы этот инструмент работал быстро.»*
+
